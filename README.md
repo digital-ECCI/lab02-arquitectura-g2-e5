@@ -24,7 +24,6 @@ A - B = A + (~B + 1)
 ~B → inversión de bits (complemento a 1)
 +1 → complemento a 2
 Esto permite usar un solo sumador para ambas operaciones.
-Diseño del Sistema
 El diseño se divide en 3 módulos principales:
 + SUMADOR 1 BIT
 ```verilog
