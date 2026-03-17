@@ -117,7 +117,7 @@ Usa 4 sumadores de 1 bit en cascada
 El acarreo se propaga:
 Ci → c1 → c2 → c3 → Co
 Este módulo permite trabajar con números completos de 4 bits, no solo bit a bit.
-+ SUMADOR / RESTADOR DE 4 bITS
++ SUMADOR / RESTADOR DE 4 BITS
   
 ```verilog
 module sumador_restador4bits(
